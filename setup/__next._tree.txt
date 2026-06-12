@@ -1,0 +1,5 @@
+:HL["/glucose-bridge-console/_next/static/chunks/3wlbka5ddl52l.css","style"]
+:HL["/glucose-bridge-console/_next/static/media/Tajawal_Bold-s.p.3whl69ljgtp1p.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
+:HL["/glucose-bridge-console/_next/static/media/Tajawal_Medium-s.p.08xqec2_6ssxj.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
+:HL["/glucose-bridge-console/_next/static/media/Tajawal_Regular-s.p.28ep9bs56w8v1.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"setup","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"I6-jx6Qos0o7QojQVrljI"}
