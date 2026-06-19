@@ -1,2 +1,2 @@
-:HL["/glucose-bridge-console/_next/static/chunks/3wlbka5ddl52l.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"I6-jx6Qos0o7QojQVrljI"}
+:HL["/glucose-bridge-console/_next/static/chunks/2jux787i599gz.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"b0b-_hz5IsC9E28u4jz9N"}
